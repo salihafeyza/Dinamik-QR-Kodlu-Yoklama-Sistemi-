@@ -1,0 +1,1 @@
+# Dinamik-QR-Kodlu-Yoklama-Sistemi-
